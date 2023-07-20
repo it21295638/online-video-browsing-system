@@ -8,5 +8,5 @@ In this group project, which involved four members, I was primarily responsible 
 - Deleting existing playlists
 - Viewing playlists
 - Updating playlists
-- 
+  
 The code in this repository specifically corresponds to my contributions related to playlist management.
